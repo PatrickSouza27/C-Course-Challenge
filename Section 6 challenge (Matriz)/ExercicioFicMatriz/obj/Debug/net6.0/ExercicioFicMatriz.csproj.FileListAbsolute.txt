@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\bin\Debug\net6.0\ExercicioFicMatriz.exe
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\bin\Debug\net6.0\ExercicioFicMatriz.deps.json
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\bin\Debug\net6.0\ExercicioFicMatriz.runtimeconfig.json
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\bin\Debug\net6.0\ExercicioFicMatriz.dll
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\bin\Debug\net6.0\ExercicioFicMatriz.pdb
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.AssemblyInfo.cs
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.dll
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\refint\ExercicioFicMatriz.dll
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.pdb
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ExercicioFicMatriz.genruntimeconfig.cache
+C:\Users\Patrick\Documents\C#\capitulo4\ExercicioFicMatriz\ExercicioFicMatriz\obj\Debug\net6.0\ref\ExercicioFicMatriz.dll
