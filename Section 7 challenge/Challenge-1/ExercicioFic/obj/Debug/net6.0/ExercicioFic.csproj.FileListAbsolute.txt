@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\bin\Debug\net6.0\ExercicioFic.exe
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\bin\Debug\net6.0\ExercicioFic.deps.json
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\bin\Debug\net6.0\ExercicioFic.runtimeconfig.json
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\bin\Debug\net6.0\ExercicioFic.dll
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\bin\Debug\net6.0\ExercicioFic.pdb
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.AssemblyInfo.cs
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.dll
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\refint\ExercicioFic.dll
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.pdb
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ExercicioFic.genruntimeconfig.cache
+C:\Users\Patrick\Documents\C#\capitulo7\ExercicioFic\ExercicioFic\obj\Debug\net6.0\ref\ExercicioFic.dll

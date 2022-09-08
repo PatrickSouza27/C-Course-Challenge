@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net6.0\ExercicioResolvido1.exe
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net6.0\ExercicioResolvido1.deps.json
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net6.0\ExercicioResolvido1.runtimeconfig.json
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net6.0\ExercicioResolvido1.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\bin\Debug\net6.0\ExercicioResolvido1.pdb
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.AssemblyInfo.cs
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\refint\ExercicioResolvido1.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.pdb
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ExercicioResolvido1.genruntimeconfig.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioResolvido1\ExercicioResolvido1\obj\Debug\net6.0\ref\ExercicioResolvido1.dll

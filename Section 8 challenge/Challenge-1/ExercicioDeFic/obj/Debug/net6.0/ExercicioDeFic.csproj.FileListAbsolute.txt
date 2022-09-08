@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\bin\Debug\net6.0\ExercicioDeFic.exe
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\bin\Debug\net6.0\ExercicioDeFic.deps.json
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\bin\Debug\net6.0\ExercicioDeFic.runtimeconfig.json
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\bin\Debug\net6.0\ExercicioDeFic.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\bin\Debug\net6.0\ExercicioDeFic.pdb
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.AssemblyInfo.cs
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\refint\ExercicioDeFic.dll
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.pdb
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ExercicioDeFic.genruntimeconfig.cache
+C:\Users\Patrick\Documents\C#\capitulo8\ExercicioDeFic\ExercicioDeFic\obj\Debug\net6.0\ref\ExercicioDeFic.dll
