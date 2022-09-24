@@ -1,0 +1,15 @@
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\bin\Debug\net6.0\Section10.exe
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\bin\Debug\net6.0\Section10.deps.json
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\bin\Debug\net6.0\Section10.runtimeconfig.json
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\bin\Debug\net6.0\Section10.dll
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\bin\Debug\net6.0\Section10.pdb
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.csproj.AssemblyReference.cache
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.AssemblyInfoInputs.cache
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.AssemblyInfo.cs
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.dll
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\refint\Section10.dll
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.pdb
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\Section10.genruntimeconfig.cache
+C:\Users\Patrick\Documents\C#\C# Git\Course Challenge C#\Section 10 challenge(Try)\Section10\Section10\obj\Debug\net6.0\ref\Section10.dll
